@@ -2,7 +2,7 @@
 Simple circuit with atmega328p with DS3231 and OLED display
 
 ## File descriptions
-1. <i>SimulationWatches.pdsprj</i> - Proteus Simulaton Project
+1. <i>SimulationWatches.pdsprj</i> - Proteus Simulation Project
 2. <i>PrototypeClocks.ino.hex</i> - Compiled program
 3. <i>PrototypeClocks.ino</i> - Source program for Arduino IDE
 
