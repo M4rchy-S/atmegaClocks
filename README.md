@@ -10,9 +10,8 @@ Simple circuit with atmega328p with DS3231 and OLED display
 
 Program supports Settings Mod where you can change DS3231 settings. 
 
-Button1 is using for navigating settings 
-
-Button2 is using for increasing values  
+1. Button1 is using for navigating settings 
+2. Button2 is using for increasing values  
 
 ## Simulation Example
 
